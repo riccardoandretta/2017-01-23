@@ -12,7 +12,7 @@ import org.jgrapht.graph.DefaultEdge;
 import org.jgrapht.graph.SimpleGraph;
 
 import it.polito.tdp.borders.db.BordersDAO;
-
+// UPDATED TO 04/06
 public class Model {
 	
 	private Graph<Country, DefaultEdge> graph ;
